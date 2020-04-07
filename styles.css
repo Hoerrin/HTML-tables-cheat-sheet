@@ -1,0 +1,25 @@
+#table{
+    margin: auto;
+}
+
+#h_tag{
+    width: 50px;
+}
+#h_name{
+    width: 80px;
+}
+#h_description{
+    width: 300px;
+}
+
+th{
+    padding: 10px;
+}
+
+table, td, th {
+    border: 1px solid #333;
+}
+
+h1{
+    text-align:center;
+}
